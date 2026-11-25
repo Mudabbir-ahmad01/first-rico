@@ -1,2 +1,2 @@
 # first-rico
-this is my demi reco
+this is my demo reco
